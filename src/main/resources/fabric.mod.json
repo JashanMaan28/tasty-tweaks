@@ -3,13 +3,14 @@
 	"id": "tasty-tweaks",
 	"version": "${version}",
 	"name": "Tasty Tweaks",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod adds some tasty food items to Minecraft.",
 	"authors": [
-		"Me!"
+		"JashanMaan28",
+		"Beau"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/JashanMaan28/tasty-tweaks"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tasty-tweaks/icon.png",
